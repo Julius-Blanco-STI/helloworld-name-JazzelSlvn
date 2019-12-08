@@ -2,7 +2,6 @@ package javaapplication3;
 
 
 public class JavaApplication3 {
-
     
     public static void main(String[] args) {
       String name = "Jazz";
@@ -11,6 +10,6 @@ public class JavaApplication3 {
        
       System.out.println ("What's your name?" + name);
       System.out.println ("How old are you?" + age); 
-      System.out.println ("What's your address?" + add);          
-    }    
+      System.out.println ("What's your address?" + add);  
+   }    
 }
